@@ -1,0 +1,89 @@
+button.css-1x8cf1d.edgvbvh10{
+    background-color: #FCFCFF;
+    width: 100%;
+}
+
+button.css-1x8cf1d.edgvbvh10:hover{
+    background-color: #FFFAFA;
+    border: 1px solid red;
+    color: red;
+}
+
+button.css-1x8cf1d:disabled{
+    color: black;
+}
+
+/* css for submit button in homepage */
+button.css-firdtp.edgvbvh11{
+    position: relative;
+    left: 92%;
+    bottom: 61.2px;
+    background-color: #228B22;
+    border-color: #228B22;
+    border-radius: 50px;
+}
+
+
+
+/* css for homepage text area*/
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-k1vhr4.egzxvld5 > div.block-container.css-91z34k.egzxvld4 > div:nth-child(1) > div > div:nth-child(5) > div > div:nth-child(1) > div > div.css-1om1ktf.e1y61itm0 > div{
+    border-radius: 20px;
+}
+
+/* css for homepage text area*/
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-k1vhr4.egzxvld5 > div.block-container.css-91z34k.egzxvld4 > div:nth-child(1) > div > div:nth-child(5) > div > div:nth-child(1) > div > div.css-1om1ktf.e1y61itm0 > div > div > textarea{
+    min-height: 50px;
+    height: 80px;
+}
+
+/* css for prompt text area*/
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-k1vhr4.egzxvld5 > div.block-container.css-91z34k.egzxvld4 > div:nth-child(1) > div > div:nth-child(7) > div > div.css-1om1ktf.e1y61itm0 > div{
+    border-radius: 20px;
+}
+
+/* css for prompt text area*/
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-k1vhr4.egzxvld4 > div.block-container.css-91z34k.egzxvld4 > div:nth-child(1) > div > div:nth-child(7) > div > div.css-1om1ktf.e1y61itm0 > div > div > textarea{
+    min-height: 50px;
+    height: 80px;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-91z34k.egzxvld4 > div:nth-child(1) > div > div:nth-child(7) > div > div:nth-child(1) > div > div.css-1om1ktf.e1y61itm0 > div{
+    border-radius: 20px;
+    min-height: 50px;
+    height: 80px;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-91z34k.egzxvld4 > div:nth-child(1) > div > div:nth-child(9) > div > div.css-1om1ktf.e1y61itm0 > div{
+    border-radius: 20px;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-91z34k.egzxvld4 > div:nth-child(1) > div > div:nth-child(9) > div > div.css-1om1ktf.e1y61itm0 > div > div{
+    min-height: 50px;
+    height: 80px;    
+}
+
+/* css for sidebar*/
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.css-vk3wp9.e1fqkh3o11 {
+    position: absolute;
+    top: 60px;
+    background-color: whitesmoke;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > div {
+    top: 60px;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.css-1iw8tfw.e1fqkh3o11 {
+    top: 60px;
+}
+
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.css-vk3wp9.e1fqkh3o11 > div.css-6qob1r.e1fqkh3o3 > div.css-1544g2n.e1fqkh3o4 > div > div:nth-child(1) > div > div:nth-child(11) > div > button{
+    background-color: #e7e7e7;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.css-vk3wp9.e1fqkh3o11 > div.css-6qob1r.e1fqkh3o3 > div.css-1544g2n.e1fqkh3o4 > div > div:nth-child(1) > div > div:nth-child(8) > div > section > div > div > small{
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
